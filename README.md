@@ -128,3 +128,8 @@ Managing project finances using spreadsheets or static reports makes it difficul
 - Department-wise financial analysis
 - Budget forecasting dashboard
 
+6.📷 Dashboard Preview
+
+Dashboard screenshot 
+https://github.com/vasuponnuru23-blip/Actual-vs-Budget-Executive-Dashboard/blob/main/snap%20shot%20of%20%20Dashboard.png
+
