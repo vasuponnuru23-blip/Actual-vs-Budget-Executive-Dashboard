@@ -112,6 +112,7 @@ Managing project finances using spreadsheets or static reports makes it difficul
 - Year-over-Year Expense Trend
 
 💼 Business Value
+
   This dashboard enables organizations to:
 - Improve financial transparency.
 - Track project profitability.
@@ -120,7 +121,6 @@ Managing project finances using spreadsheets or static reports makes it difficul
 - Identify financial risks early.
 - Support strategic budgeting and planning.
 - Enable executive-level reporting through interactive dashboards.
-  Future Enhancements
 - Forecasting using time-series analysis
 - Drill-through project reports
 - Role-Level Security (RLS)
